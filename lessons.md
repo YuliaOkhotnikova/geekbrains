@@ -121,4 +121,4 @@
 
 После надо выполнить компанды "git add name of file" и "git commit -m "comments"".
 
-**git log --graph** - показывает все ветки.
+**git log --graph** - показывает все ветки и изменения в них.
